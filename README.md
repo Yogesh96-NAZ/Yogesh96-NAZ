@@ -46,7 +46,6 @@ Email Me 👉 ✉️ **yogesh.devx@ieee.org** For Collaboration/Project or Anyth
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Yogesh96-NAZ&limit=5&theme=dark&combine_all_yearly_contributions=true)
